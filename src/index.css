@@ -184,6 +184,11 @@ header p {
   font-family: 'Raleway', sans-serif;
   font-size: 1rem;
   color: #5d0909;
+  cursor: pointer;
+}
+
+.button-text:hover{
+  opacity: 0.8;
 }
 
 .modal::backdrop {
